@@ -1,4 +1,4 @@
-##Hi there 👋
+Hi there 👋🫠
 
 I'm Svyatoslav, a Computer Engineering student from Dnipro, Ukraine, aiming to grow into a DevOps Engineer / Infrastructure Engineer role.
 
