@@ -17,6 +17,5 @@ My background combines software and hardware:
 
 I’m currently looking for opportunities to grow through real-world infrastructure and automation work.
 
-📫 Contact: email or links below
-🔗 Portfolio / links: https://guns.lol/shizuku13
+📫 Contact: https://guns.lol/shizuku13
 🔗 LinkedIn: https://www.linkedin.com/in/sviatoslav-chemykos-a81639352/
